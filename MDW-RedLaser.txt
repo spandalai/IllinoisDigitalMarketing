@@ -1,0 +1,57 @@
+Task 1
+
+Share the information below for each of the five products (coffee, detergent, men’s T-shirt, battery, television):
+
+Brand name
+Store price
+Lowest local retail price
+Lowest Internet retail price
+Folgers Classic Ground Coffee Medium Roast, $4.65, $4.69, $5.08
+Purex Baby Liquid Detergent, $3.97, $4.04, $4.25
+Levi's White T-Shirt, $32.00, $31.99, $28.00
+Energizer AAA Battery, $10.39, $12.95, $12.12
+Samsung 32" Smart TV, $349.99, $309.99, $228.00
+
+Task 2
+
+Calculate the total amount of money you would have saved by buying these items via an Internet retailer (not counting the cost 
+of shipping). What did you learn from this?
+
+Please do not exceed 300 words for this task.
+
+I would have saved $123.55 by shopping online. The bulk of that is coming from the price of TV which is very less online. Also
+the Levi's T-Shirt is also cheaper online, but not by much. This clearly indicates that items which are high value can be 
+bought online, as online retailers does not have the additional overhead of store costs and employee costs. This allows them
+to pass on the additional margins to the customers there by reducing the costs. But for smaller value items like battery,
+detergent etc there is no such benefit as the margins are very low in these items. Also many a times these are purchases
+that are done urgently and therefore there is no time to wait for delivery. People would rather go and pick them up from the
+local grocery.
+
+
+Task 3
+
+Respond to the question: How did you feel about using this shopping tool? Will you use it in the future? How will you use it?
+
+Please do not exceed 400 words for this task.
+
+The shopping tool was useful, but sometimes took time to get back with data. This was especially true when i tried out the
+detergent. It did provide some good data when it came around. I would use it, only when i am looking at higher value goods.
+I am not sure if it makes any sense to take this to a grocery store when buying bread and milk. But when you are looking at
+buying TV, DVRs or Laptops then this could come handy.
+
+
+Task 4
+
+Respond to the question: How could this tool be enhanced? What would make it even more valuable?
+
+Please do not exceed 400 words for this task.
+
+There are some items which does not seem to have been tagged yet. I tried one of a different variety of Coffee and it did not
+show any result. Enhancing the catalog would definitely be useful. Also the app does slow down sometimes making you wonder if
+it did not find any match. The tool would be more useful, if there are reviews of products as well as stores mentioned. The
+tool could also offer customers to remember some of their preferences and remind them of price cuts. This is especially true
+for planned purchases like TV. I found that more people are using some kind of app in aisles where electronics are kept. But
+overall there was a feel that i was the only one using it.
+
+In lighter vein, i tried the tool on some of the esoteric items, i tried it on Thai Coconut Milk. I am still waiting for the
+catalog to the updated with the item.
