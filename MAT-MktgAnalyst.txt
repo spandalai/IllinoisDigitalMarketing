@@ -1,0 +1,21 @@
+Question: In one of the lectures, the instructor mentions that "No tool is ever as valuable as the analyst." Do you agree with
+this statement? Explain your opinion by providing a reasonable argument along with one or two examples.
+
+Yes i agree with the statement.
+
+Tools today have provided with ways to collect, collate, analyze and present data. Today, with so much data floating around
+within enterprises, it is important for someone to look at which data sources to tap into in order to come up with good analysis.
+Here is where the importance of a good analyst comes into play. A good analyst alone can sift through the data sources and then
+identify the right data set. This data set can then be fed into a tool to do various types of analysis. Once the data is
+identified, it is important to see what kind of model makes sense for a particular problem. Only an analyst can make this
+decision. An analyst will look at the business problem and then come up with the right kind of modelling technique to use.
+Once the data is ready and the modelling technique identified, only then the tool can be of help. The tool as such cannot do
+either of the two above.
+
+Once the model is built and results are available, it is again the analyst who will have to make sense of the output. The tool
+itself cannot recommend a course of action. The analyst using their past experience and domain understanding will decide which
+is the best possible step to take based on the results of the analysis. This is vital, as same result could be interpreted in
+different ways. Finally presenting the results in a way that is easy for users to understand is another thing that no tool can
+do on its own. The analyst based on the audience, can come up with the right kind of visualizations and outputs that will make
+the most impact.
+
