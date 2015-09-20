@@ -1,0 +1,21 @@
+The article "New Ways Marketers Are Manipulating Data to Influence You" talks about retargeting, a new form of targeted
+advertising that collects and analyzes personal information (such as credit card histories and web habits) to display
+personalized ads to consumers. 
+
+Question: Discuss whether you are personally in favor of the retargeting technique to achieve targeted ads. Explain the rationale
+behind your opinion.
+
+From the perspective of a marketing person, retargeting looks like a perfect way to get in front of the consumer with the right
+product at the right time. This is especially true in today's day and age with all the micro targeting technology that is
+available. The amount of data that consumers leave behind in the form of transactions, clicks, purchases, surveys etc is so
+large that many brands can now focus very clearly on consumer needs. From that perspective it is something that have enhanced
+the marketers tool kit significantly. The key here is to ensure that the right kind of data is used to target the right consumer.
+Many a times, we are bombarded with ads which might look totally irrelevant to what we are looking for. There could also be times
+when we might have looked at items out of curiosity rather than any intent to buy. These could be major turn offs for consumers
+and their perception of the brand might change for ever. This is a drawback of having the volumes of data floating around. So
+brands and marketers need to clearly pick up the early trigger points and specific intent to buy, so that they can then be sure
+of the ads being presented is going to be useful for the consumer as well as profitable for the brands.
+
+Looking from the perspective of the consumer though, there are serious privacy concerns, which needs to be addresses in a
+holistic manner. Consumers should be given the choice to opt out of communications and also provide clear indication that data
+submitted through forms and other means are not shared around
