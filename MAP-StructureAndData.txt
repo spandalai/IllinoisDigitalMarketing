@@ -1,0 +1,28 @@
+Question 1
+In what way can free, publicly available sources of structured data be used to aid your organization’s (or an organization of
+your interest) marketing efforts?
+
+We use google analytics data for fine tuning our marketing campaigns as well as improving brand awareness. We also use
+socio-economic information from world bank and Fed to improve targeting and positioning. Finally we are using census information
+for demographic targeting and segmentation. All these are either publicly available or free with registration and have provided
+us with tremendous value in various marketing initiatives
+
+Question 2
+As demonstrated in Lesson 4, use Google Trends to analyze the interests of a term of your choice. Provide the following
+information based on your analysis:
+
+i. Change in interest over time (write a few words on the pattern of changes – if any e.g., increasing, decreasing or mix of
+both)
+ii. Regional interests
+iii. Related searches
+
+Note: You can choose any term including, but not limited to, your favorite food, favorite movie or TV show, etc.
+
+Searched for the word 'r programming'
+i) There is a growing interest in R as a programming language over the last 5 years or so. Since 2005 there is growing trend as
+per google, with a slight spike in 2009 owing to an article that was published by Slashdot. Overall the there is an increasing
+trend for this term
+ii) Singapore followed by India and US has the maximum interest in this term. From cities perspective Bangalore topped the list
+with Hyderabad and Chennai coming next
+iii) The top 5 related searched are 'programming r language', 'programming language', 'r language', 'programming in r' and
+'programming with r'.
