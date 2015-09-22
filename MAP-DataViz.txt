@@ -1,0 +1,13 @@
+Question 1
+Describe one or two instances of data visualization that violate one or more of the 3 simple rules to visualizing insights with
+impact.
+
+Of the visualizations that i have come across the biggest issue i have is with bubble charts. In these situations, the analyst
+will use the size of the bubble to signify value. But in most cases the bubbles are not scaled properly, resulting in similar
+sized bubbles, but representing vastly differing values. This violates the contrast and sometimes the color aspect of
+visualizations
+
+I have also come across the use of treemaps. This is a bad choice when it would have been better to use a bar graph and allowed
+comparison of the lengths of bars that have a common baseline. Furthermore, many times the arrangement of the rectangles is
+arbitrary and are not specifically based on category or on the sizes of values.
+
