@@ -1,0 +1,28 @@
+Question 1
+In what way can sources of unstructured data be used to aid your organization’s (or an organization of your interest) marketing
+efforts?
+
+Unstructured data could offer many benefits to organizations looking to harness the power of analytics. In our organization, we
+use unstructured data in the following ways:
+1) We use social data from twitter and Facebook to get a feel of what people are talking about in the social media. Many times we
+have been able to see irritations related to service issues and product complaints at a very early stage and take corrective
+actions. This has helped in reducing the noise that could create a negative vibe about the brand
+2) We use detailed comments and product and service reviews from blogs and forums to get a sense of what people are sharing on
+the web. Many times these reviews offer great insight into what the customers are thinking. It also offers a peak into the
+customer decision journey. We have been using this to build a story board of decision journey's which has enabled us to better
+understand the needs of the customer.
+3) We also look at call transcripts from call centers to see what is the biggest challenge being reported and looking at ways to
+alleviate some of the pain areas. I need to add that we use the feedback from sales reps who bring in valuable data on
+conversations they have had with customers. This data set, which is directly coming from customers enable a lot of decisions are
+a key part of the unstructured data.
+
+From our experience, we have seen that we get a lot of customer complaints on social media like twitter and Facebook. We have
+looked at ways to use hashtags to covert tweets to support cases or emails. We have noticed that forums and blogs offer customers
+a way to share their appreciation for a product. This does not mean that tweets and Facebook posts does not cover appreciation,
+but the nature of the medium makes it more amenable to report issues. Finally call center logs also some times offer specific
+recommendations that customers might have, which could never be received with other means.
+
+Finally, it must be said that we do try to bring some structure to unstructured data. This allows us to put the other sources of
+data that we have into context. Many a times, we have seen that bringing qualitative context aids in the better understanding of
+quantitative data, which might otherwise look like a bunch of numbers in an excel sheet.
+
