@@ -1,0 +1,28 @@
+Question 1
+Describe how the three functional roles of marketing analytics (data strategist, techie, and data designer) are filled in your
+current organization or an organization of your choice.
+
+In my current organization, there are different groups which does the mentioned roles. We do have marketing planning and strategy
+teams whose role it is to strategize the various action plans and road maps. The tech teams are mostly analysts with deep
+background in statistical modelling and analysis and the design team comprises of folks with background in data visualization
+techniques and UI/UX expertise.
+
+Question 2
+Explain why you think "pain" is a necessary element in any good web analysis project.
+
+Whether you do web analysis as an individual or as part of a group, pain is something that is necessary and required.
+
+When the work is done as an individual contributor acting out three roles, the pain could be an area which the individual is
+the weakest in. It could result in the final analysis not coming out the way that makes it compelling or catchy. The pain or a
+burning desire to not settle for second best analysis could help the analyst to think differently and eventually lead to better
+results. This could make the analyst take vastly different approach or speak to people who have differing points of view.
+
+When working in the group setting where there are different people doing these roles, there are challenges related to agreement
+as well as understanding. The pain here could be that the whole team does not understand the final goal of the project and
+therefore are pulling in differing directions. While differing points of view could help improve the project, it is imperative
+that the final objective is not forgotten. Here the pain or lack of cohesion could make people to think in terms of bringing
+the best elements of the teams, without resorting to being a committee of consensus.
+
+Whatever the context, pain helps improve the overall output of the project. It makes the teams to think in terms of solutions
+that brings our unique perspectives and better insights.
+
