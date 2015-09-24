@@ -1,0 +1,45 @@
+Question 1
+What is the purpose of exploratory research?
+
+The purpose of exploratory research is to do an initial study to understand an idea or observed phenomena. This type of study
+will pave way to more detailed analysis and study on the subject. Exploratory research is used to understand an issue thoroughly
+before getting into quantitative study.
+
+Exploratory research using open ended questions allows researchers to look at varying perspectives about a topic or issue, there
+by broadening the perspective. This way exploratory research helps in guiding future survey design and question building process
+and prevents the research goals from heading in the wrong direction.
+
+Exploratory research will provide high quality information that will help identify the main issues that should be addressed in
+future surveys and significantly reduce a research project’s level of bias.
+
+
+Question 2
+What is primary research? List three examples.
+
+Primary research is the type of research that one would do by going out and collecting data directly.
+
+Examples of primary research are surveys, interviews and observations. 
+
+Interviews: Interviews are 1 to 1 question and answer sessions. Interviews helps with getting information from a small number
+of people and are especially useful when an expert or knowledgeable opinion is needed on a topic.
+
+Example: Interviews could be used to understand in depth specific aspects of a topic, like talking to an economist about
+economic outlook or talking to a coach about a specific team performance
+
+Surveys: Surveys are are more rigid than interviews and will involve larger groups of people. Surveys will provide a standard
+set of information from a large group of people. Surveys helps reach a larger audience and with Internet provides a easy way
+to conduct a survey across geographies. This helps with understanding differing perspectives from people from varying
+backgrounds.
+
+Example: Surveys could be used to get customer feedback about a product or service. This can help with improving product or
+service quality.
+
+Observations: Observations involve taking notes about various happenings of interest in the world. Observations provide
+insight about specific people and events and helps with learning more about an event without the biased viewpoint of an
+interview.
+
+Example: Observations can be helpful in understanding how users are interacting with a product or service. If a new product
+or service is introduced, it would make sense to test it out with real users, while user observations to see how they go
+about with the process of operating the product. This will help understand the various qualitative aspects related to product
+usability and performance, there by helping improve the same.
+
