@@ -1,0 +1,77 @@
+Question 1
+Discuss the ways that digital innovation is affecting one of the following: radio, television, or out of home media. Include
+pros and cons in your discussion.
+
+With the arrival of Apple, Google and similar players, content has become equally important. TV service providers like Comcast
+are moving up the stack by becoming content companies. They are doing this by acquisition of existing digital players. So we are
+now seeing the birth of large players with diverse interests from services, content, video and print publishing. They are also
+using this breadth to link the various real estate to provide a omni-channel experience.
+
+Pros: better quality content, integrated services across platforms
+Cons: pricing issues
+
+The second screen paradigm has offered TV providers to engage with the audience better. TV is basically not interactive, but
+with the advent of Internet enabled TV's as well as devices like Tablets, television has now become a medium where viewers can
+interact directly. In many Asian countries there are a plethora of talent shows, which allows viewers watching at home to vote
+on contestants using tweets or FB comments or even sending text messages. This integration has made the television viewing a
+more interactive experience.
+
+Pros: higher level of interactivity, feedback loops
+Cons: fragmented attention
+
+Content management and discovery is another area where digital is changing television viewing experience. Today viewers could
+record and replay their favorite shows, movies and games. The ability to easily do this as well as search for the content has
+enabled viewers to decide when to watch and also weed out things they don't want to watch. This has made it necessary for
+advertisers to be more creative with their spots. Product placement within movies, sports matches and shows are now very
+common.
+
+Pros: better viewing experience, revenue from product placement
+Cons: lower ROI on ads
+
+Finally with mediums like Youtube and Hulu, many amazingly talented creative people have found a medium to express their
+abilities. Many of these people does not have a money or reach to get into the orbit of television executives. Millennials
+are using Youtube and Hulu as a medium for entertainment and it is easier to create a positive impact if producers of content
+can bring their wares to these mediums. This offers a direct relationship with the audience at a cost that is significantly
+low.
+
+Pros: higher engagement with audience, lower entry barriers
+Cons: loss of ad revenue, content quality issues
+
+
+Question 2
+Discuss the ways that digital innovation is affecting newspapers or consumer magazines. Include pros and cons.
+
+With digital there is now a lot of emphasis on content co-creation across platforms. Today content is being readied for print
+as well as digital platforms. While print offers the ability to reach a targeted local audience, digital is offering the
+ability to reach across geographies. Digital is also offering firms to involve users and readers through getting feedback
+and comments.
+
+Advertising has also undergone a significant change in the age of digital. Earlier advertising used to be a large portion of
+the revenue for news papers. Today online and digital advertising options offers a cheaper option with wider reach. This has
+forced many firms to reduce their spending on news paper advertisements and focus on digital channel for outreach. With the
+advent of multi platform players with interest in newspaper, radio, tv and digital, firms now have the ability to increase
+their bang for their buck on spots.
+
+News papers have also worked on some innovative ways to reach out to digital audience. These days it is common to see QR codes
+printed in newspapers which allows users to scan the code using a mobile camera and which will then take them to the digital
+site. This was very successfully done by Ford motors in India when they launched their new hatchback car. News papers have
+also built pay walls around its digital sites, with a limited amount of free articles per month. Along with this they have
+tried to grow the print editions, by offering the digital edition free along with the print edition. News papers have also
+started to look at specific regional or ethnic new reporting as an option to attract local and ethnic readers to their fold.
+
+Pros: broader audience, multiple platforms, shareability, localized news
+Cons: loss of ad revenue, fragmented attention
+
+
+Question 3
+How did Dominos use both traditional and social channels in order to drive consumer engagement?
+
+Domino's used traditional and social channels to bring customers to their stores. They used the traditional channels to place
+advertisements which is then tied to them doing a specific action. In most cases this would involve visiting a microsite or a
+specific social channel like facebook or foursquare. Once these actions are complete, customers are able to unlock a specific
+coupon code or get a promotion which could be redeemed instore. This way Domino's was able to sustain user interest in
+traditional mediums as they offered a local medium to reach to specific audience, along with attracting them to digital
+sites for further action.
+
+Thus Domino's successfully used the Trigger->Action->Reward->Investments approach to build interest in the brand and bring
+more customers to their stores.
