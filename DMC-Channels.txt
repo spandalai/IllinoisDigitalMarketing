@@ -1,0 +1,33 @@
+Question 1
+How has Moore’s Law affected digital marketing in the last 5 years? Use at least one concrete example.
+
+Marketing automation has been one of the key themes in the last 5 years. This include segmentation, data integration and
+managing campaigns. Along with automation programmatic buying, adwords, analytics and social media has made marketing more
+digital in the last 5 years. Today firms are utilizing technology to drive better segmentation strategies, find hidden patterns
+for product/service interests, create targeted customer communications, and offer specific pricing mechanisms.
+
+One of the biggest example is Analytics. Today organizations are using analytics in a big way to understand user behavior. This
+has enabled organizations to better target users and appeal to them with the right product at the right time. Analytics today
+allow firms to reach users when it is the most relevant time without being intrusive. Analytics also helps with localization of
+content and services there by making it more relevant. Analytics has also helped with pricing policies, like surge pricing with
+certain services like Uber.
+
+Question 2
+Compare the business model for a television station in your market to a digital media business model.
+
+A television station's business model is dependent on producing good quality programs and being able to attract advertisers to
+buy slots during the programs. These programs could be related to news, sports, live events, movies or serials. For each of
+these programs, the station pays the producer or the event organizer to ensure that the content is delivered through the station.
+The station also need to deal with cable providers to ensure that they carry the channel. The reach of a station in most cases
+is local, either within a state or within a country in some cases. The advertisers are looking at reaching a specific target of
+audience within a geographic area of a specific demographic segment. The standard content on television is one way and does not
+work well with interaction, even though some efforts in this direction has seen success.
+
+Digital media offers a plethora of options to producers, advertisers and viewers. It allows viewers to choose from a range of
+products like short videos, full length movies, short stories with build in interactions, long form stories etc. Along with
+this it also offers viewers the flexibility to pause, rewind and view later. Viewers also are not restricted by the country
+or geography, even though some digital media could be blocked from certain locales. It offers advertisers to look at analytics
+to see what kind of advertisements to show during specific time of the day or specific event. It also offers the ability for
+viewers / readers to comment on various aspects of the media, there by getting real time feedback. Digital media also offers
+a comparatively cheaper alternative for users to generate their own content. Many online digital platforms integrate user
+generated content with their main program, so as to provide a different perspective or specific localized action.
